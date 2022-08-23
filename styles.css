@@ -3,6 +3,7 @@ main div {
   width: 100px;
   height: 100px;
   background-color: hotpink;
+  border: 3px dotted black;
   position: absolute;
   transition: all 3s;
 }
